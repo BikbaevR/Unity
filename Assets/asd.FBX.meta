@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 0086f605f414a2b4d91e8b0e4c3fb6bb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Camera.target
+    100006: cilindrik
+    100008: gantel
+    100010: glazok
+    100012: korpus
+    100014: krishka
+    100016: krutilka
+    100018: Light
+    100020: linza
+    100022: osnova
+    100024: Plane
+    100026: shtoto
+    100028: shtoto2
+    100030: Sky
+    100032: uvelishite
+    400000: //RootNode
+    400002: Camera
+    400004: Camera.target
+    400006: cilindrik
+    400008: gantel
+    400010: glazok
+    400012: korpus
+    400014: krishka
+    400016: krutilka
+    400018: Light
+    400020: linza
+    400022: osnova
+    400024: Plane
+    400026: shtoto
+    400028: shtoto2
+    400030: Sky
+    400032: uvelishite
+    2000000: Camera
+    2100000: Mat.3
+    2100002: Default
+    2100004: Mat1
+    2100006: Mat.2
+    2100008: Mat.1
+    2100010: Mat
+    2300000: cilindrik
+    2300002: gantel
+    2300004: glazok
+    2300006: korpus
+    2300008: krishka
+    2300010: krutilka
+    2300012: linza
+    2300014: osnova
+    2300016: Plane
+    2300018: shtoto
+    2300020: shtoto2
+    2300022: uvelishite
+    3300000: cilindrik
+    3300002: gantel
+    3300004: glazok
+    3300006: korpus
+    3300008: krishka
+    3300010: krutilka
+    3300012: linza
+    3300014: osnova
+    3300016: Plane
+    3300018: shtoto
+    3300020: shtoto2
+    3300022: uvelishite
+    4300000: Plane
+    4300002: gantel
+    4300004: uvelishite
+    4300006: linza
+    4300008: glazok
+    4300010: krutilka
+    4300012: korpus
+    4300014: cilindrik
+    4300016: shtoto
+    4300018: krishka
+    4300020: shtoto2
+    4300022: osnova
+    9500000: //RootNode
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
